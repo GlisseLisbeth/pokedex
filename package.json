@@ -1,0 +1,29 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Website used Api Official Pokedex with Ajax, Nodejs and Express 5 ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlisseLisbeth/pokedex.git"
+  },
+  "keywords": [
+    "Pokedex",
+    "API",
+    "NodeJS",
+    "Express",
+    "5",
+    "Ajax"
+  ],
+  "author": "Glisse Jorge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlisseLisbeth/pokedex/issues"
+  },
+  "homepage": "https://github.com/GlisseLisbeth/pokedex#readme"
+}
